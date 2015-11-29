@@ -118,7 +118,7 @@ h1,h2,h3,h4,h5,h6
 }
 .navbar-default .navbar-brand
 {
-	color: #fed136;
+	color: #E0A256;
 	font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
 }
 .navbar-default .navbar-brand:hover,.navbar-default .navbar-brand:focus,.navbar-default .navbar-brand:active,.navbar-default .navbar-brand.active
@@ -594,7 +594,7 @@ aside.clients img
 section#contact
 {
 	background-color: #222;
-	background-image: url(../img/wood.jpg);
+	background-image: url(../img/header-bg-man.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
 }
