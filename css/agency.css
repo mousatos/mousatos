@@ -235,6 +235,10 @@ header .intro-text .intro-heading
 }
 @media (min-width:768px)
 {
+	header .logo-center
+	{
+	background-image: url(../img/MOUSATOSlogo.png);
+	}
 	header .intro-text
 	{
 		padding-bottom: 200px;
